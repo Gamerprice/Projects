@@ -1,5 +1,7 @@
 # 🧩 Anagram Finder
-
+![Python](https://img.shields.io/badge/Language-Python-blue)
+![Status](https://img.shields.io/badge/Status-Finished-brightgreen)
+![Internship Task](https://img.shields.io/badge/Internship%20Test-Anagram%20Finder-orange)
 ## 📄 Описание
 
 **Программа на Python, которая находит и группирует анаграммы из входного текстового файла.  
